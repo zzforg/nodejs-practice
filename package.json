@@ -1,0 +1,26 @@
+{
+  "name": "ggnodeserver",
+  "version": "0.0.1",
+  "description": "An node.js server for test, practice purpose only -Gary",
+  "main": "nodejs_server.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zzforg/nodejs-practice.git"
+  },
+  "keywords": [
+    "gg",
+    "node.js",
+    "server"
+  ],
+  "author": "Gary Zeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zzforg/nodejs-practice/issues"
+  },
+  "homepage": "https://github.com/zzforg/nodejs-practice#readme"
+}
